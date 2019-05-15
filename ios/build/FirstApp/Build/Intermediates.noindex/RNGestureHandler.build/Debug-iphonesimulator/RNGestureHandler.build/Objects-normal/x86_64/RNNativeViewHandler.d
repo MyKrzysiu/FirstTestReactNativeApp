@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.m \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTScrollView.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTAutoInsetsProtocol.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTScrollableProtocol.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h

@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.m \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/ios/build/FirstApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
+  /Users/krzysztofkobiela/ReactNative/FirstApp/node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.h
